@@ -1,0 +1,93 @@
+{
+  "duration": 1.0,
+  "interpolation_method": "linear",
+  "keyframes": [
+    {
+      "time": 0.0,
+      "pose": {
+        "FL_hip": 0.0,
+        "FL_thigh": 0.8,
+        "FL_calf": -1.6,
+        "FR_hip": 0.0,
+        "FR_thigh": 0.8,
+        "FR_calf": -1.6,
+        "RL_hip": 0.0,
+        "RL_thigh": 0.8,
+        "RL_calf": -1.6,
+        "RR_hip": 0.0,
+        "RR_thigh": 0.8,
+        "RR_calf": -1.6
+      },
+      "base": {
+        "pos": [
+          0.0,
+          0.0,
+          0.4
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "time": 0.5,
+      "pose": {
+        "FL_hip": 0.0,
+        "FL_thigh": 0.06000000000000005,
+        "FL_calf": -2.25,
+        "FR_hip": -0.0,
+        "FR_thigh": 0.06000000000000005,
+        "FR_calf": -2.25,
+        "RL_hip": 0.0,
+        "RL_thigh": 0.64,
+        "RL_calf": -0.72,
+        "RR_hip": -0.0,
+        "RR_thigh": 0.64,
+        "RR_calf": -0.72
+      },
+      "base": {
+        "pos": [
+          0.145,
+          0.0,
+          0.57
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "time": 1.0,
+      "pose": {
+        "FL_hip": 0.0,
+        "FL_thigh": 0.8,
+        "FL_calf": -1.6,
+        "FR_hip": 0.0,
+        "FR_thigh": 0.8,
+        "FR_calf": -1.6,
+        "RL_hip": 0.0,
+        "RL_thigh": 0.8,
+        "RL_calf": -1.6,
+        "RR_hip": 0.0,
+        "RR_thigh": 0.8,
+        "RR_calf": -1.6
+      },
+      "base": {
+        "pos": [
+          0.29,
+          0.0,
+          0.4
+        ],
+        "rpy": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}

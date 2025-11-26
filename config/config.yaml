@@ -1,0 +1,8 @@
+defaults:
+  - robot: go2
+  - _self_
+
+hydra:
+  run:
+    dir: .
+  output_subdir: null

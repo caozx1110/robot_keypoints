@@ -1,0 +1,24 @@
+name: "/go2"
+urdf_path: "assets/go2_description/urdf/go2_description.urdf"
+fixed_urdf_path: "assets/go2_description/urdf/go2_description_fixed.urdf"
+body_dims: [0.4, 0.2, 0.1]
+hip_len: 0.08
+thigh_len: 0.213
+calf_len: 0.213
+limits:
+  hip: [-1.0, 1.0]
+  thigh: [-1.0, 4.0]
+  calf: [-2.8, -0.5]
+default_pose:
+  FL_hip: 0.0
+  FL_thigh: 0.8
+  FL_calf: -1.6
+  FR_hip: 0.0
+  FR_thigh: 0.8
+  FR_calf: -1.6
+  RL_hip: 0.0
+  RL_thigh: 0.8
+  RL_calf: -1.6
+  RR_hip: 0.0
+  RR_thigh: 0.8
+  RR_calf: -1.6

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Assets (optional, depending on if we want to commit large files)
+
+assets/go2_description/
+
+*.log

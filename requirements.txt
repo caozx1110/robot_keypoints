@@ -1,0 +1,6 @@
+viser
+numpy
+scipy
+rich
+hydra-core
+omegaconf
